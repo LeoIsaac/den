@@ -1,0 +1,92 @@
+pika="
+            $z$z
+          $z$z$z                  $z$z
+          $z$z$z                $z$y$y$z
+        $z$y$y$z        $z$z$z$z$y$y$y$y$z
+        $z$y$y$z    $z$z$z$z$z$y$y$y$y$y$z
+      $z$z$y$z    $z$y$y$z$z$y$y$y$y$y$z
+    $z$y$y$y$y$z$z$y$y$y$z$y$y$y$y$y$z
+  $z$y$y$y$y$y$y$y$y$y$z$y$y$y$y$y$z
+  $z$y$y$y$y$y$y$y$y$y$z$z$y$y$y$z
+$z$y$y$y$y$y$w$z$y$y$y$z  $z$y$y$y$z
+$z$y$z$y$y$y$z$z$y$y$y$y$z  $z$y$y$z
+  $z$y$y$y$y$y$r$r$y$y$y$y$z$y$y$z
+$z$y$z$y$y$y$y$r$r$y$y$y$y$z$y$z
+  $z$z$z$y$y$y$y$z$y$y$y$y$y$z$y$z
+        $z$y$y$z$y$y$z$y$y$y$z$z
+        $z$y$y$y$z$z$y$y$y$y$z
+          $z$y$y$y$y$y$y$y$z$z
+            $z$z$z$y$y$y$y$z
+                  $z$z$y$z
+                    $z$z
+　　　　　　　ピカチュウ
+"
+
+marill="
+          $z$z
+        $z$b$b$z      $z$z$z
+      $z$p$p$b$z    $z$b$b$b$z
+      $z$p$p$b$z$z$z$b$b$p$p$b$z
+        $z$b$b$b$b$z$b$p$p$p$p$z
+      $z$w$b$b$b$b$b$b$p$p$p$p$z
+    $z$b$z$b$b$b$w$b$b$b$p$p$z      $z$z$z
+  $z$z$b$b$p$p$b$z$b$b$b$z$z      $z$b$b$b$z
+$z$b$z$b$b$b$b$b$b$b$b$b$b$b$z  $z$b$w$b$b$b$z
+  $z$z$b$w$w$w$w$b$b$b$z$b$b$z  $z$b$b$b$b$b$z
+    $z$w$w$w$w$w$w$b$b$b$z$b$z  $z$b$b$b$b$b$z
+      $z$w$w$w$w$w$w$b$z$z$b$z    $z$b$b$b$z
+      $z$z$w$w$w$w$w$b$b$b$z        $z$z$z
+    $z$b$b$z$w$w$w$b$b$b$z$z    $z$z  $z
+      $z$z  $z$z$z$z$z$z$z  $z  $z  $z
+                $z$b$b$z      $z$z
+                  $z$z
+　　　　　　　マリル
+"
+
+gardevoir="
+              $z$z$z$z$z
+          $z$z$g$g$g$g$g$z$z
+        $z$g$g$g$g$g$g$g$g$g$z
+      $z$g$g$g$g$g$g$g$g$g$g$g$z
+      $z$g$g$g$g$g$g$g$g$g$g$g$z
+    $z$g$g$g$g$g$g$g$g$g$g$g$g$g$z
+    $z$g$g$g$g$g$g$g$g$g$g$g$g$g$z
+    $z$g$g$g$g$g$g$g$g$w$w$g$g$g$z
+      $z$g$g$g$g$g$p$w$w$g$g$g$g$z
+      $z$g$g$g$g$g$p$w$w$w$g$g$z
+        $z$g$g$w$w$w$w$g$g$g$g$z
+          $z$z$z$z$w$z$g$g$g$z
+  $z$z$z$z$g$g$z$p$w$g$z$z$z
+$z$g$g$g$g$z$z$p$p$g$g$g$z
+  $z$g$g$z  $z$p$p$g$g$g$g$z$z
+    $z$z    $z$w$p$w$w$g$g$g$g$z$z$z$z
+          $z$w$w$w$w$w$w$z$g$g$g$g$g$z$z$z$z$z
+          $z$w$g$w$w$w$w$w$z$z$g$g$z$w$w$w$w$w$z$z
+        $z$w$g$g$w$w$w$w$w$w$w$z$z$w$w$w$w$w$w$w$w$z
+      $z$w$w$g$z$w$w$w$z$w$w$w$w$w$w$w$w$w$w$z$z$z
+      $z$w$g$z$z$w$w$w$w$z$z$w$w$w$w$g$g$w$z
+        $z$z    $z$w$w$w$w$w$z$w$w$g$z$z$z
+                  $z$z$w$w$z$z$w$w$z
+                      $z$z    $z$z
+　　　　　　　　サーナイト
+"
+
+mario="
+      $r$r$r$r$r
+    $r$r$r$r$r$r$r$r$r
+    $g$g$g$y$y$g$y
+  $g$y$g$y$y$y$g$y$y$y
+  $g$y$g$g$y$y$y$g$y$y
+  $g$g$y$y$y$y$g$g$g$g
+      $y$y$y$y$y$y$y
+    $g$g$r$g$g$g
+  $g$g$g$r$g$g$r$g$g$g
+$g$g$g$g$r$r$r$r$g$g$g
+$y$y$g$r$y$r$r$y$r$g$y
+$y$y$y$r$r$r$r$r$r$y$y
+$y$y$r$r$r$r$r$r$r$r$y
+    $r$r$r    $r$r$r
+  $g$g$g        $g$g$g
+$g$g$g$g        $g$g$g
+　　　　マーリオ
+"
